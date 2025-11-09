@@ -1,8 +1,4 @@
-Here’s a compact, no-fluff summary for your notes:
-
----
-
-### Common Terms — Summary
+# Common Terms — Summary
 
 **Shell:**
 

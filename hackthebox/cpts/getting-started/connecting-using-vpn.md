@@ -1,8 +1,4 @@
-Perfect — here’s the concise summary for your notes:
-
----
-
-### Connecting Using VPN — Summary
+# Connecting Using VPN — Summary
 
 A **VPN (Virtual Private Network)** creates an encrypted tunnel over the internet, allowing secure access to a private network as if you were directly connected to it. It hides your real IP by routing traffic through the VPN server.
 

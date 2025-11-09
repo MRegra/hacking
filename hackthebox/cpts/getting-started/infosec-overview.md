@@ -1,4 +1,4 @@
-### Infosec Overview — Summary
+# Infosec Overview — Summary
 
 Information security (infosec) protects data’s **Confidentiality, Integrity, and Availability (CIA)** from unauthorized access, modification, or disruption. It covers areas like network and infrastructure security, application security, digital forensics, incident response, and risk management.
 
